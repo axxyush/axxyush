@@ -1,5 +1,9 @@
+# Hi, I'm Ayush! 👋
+Student & Aspiring Software Engineer.
+My Portfolio - https://m-portfolio-green.vercel.app/
+My LinkedIn - https://www.linkedin.com/in/ayush-sri/
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=axxyush&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axxyush&layout=compact&theme=radical)
 
 <!--
