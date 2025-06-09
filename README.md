@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=axxyush&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axxyush&layout=compact&theme=radical)
 
 <!--
 **axxyush/axxyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
