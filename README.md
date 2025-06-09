@@ -3,7 +3,6 @@
 Student & Aspiring Software Engineer.
 
 [My Portfolio](https://m-portfolio-green.vercel.app/)
-
 [My LinkedIn](https://www.linkedin.com/in/ayush-sri/)
 
 ## Contribution Streak 🔥
